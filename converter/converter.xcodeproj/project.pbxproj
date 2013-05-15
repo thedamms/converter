@@ -19,6 +19,8 @@
 		1D0DF14B1740683300CB8C62 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D0DF1491740683300CB8C62 /* MainStoryboard.storyboard */; };
 		1D0DF14E1740683300CB8C62 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0DF14D1740683300CB8C62 /* ViewController.m */; };
 		1D0DF15617409EDA00CB8C62 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0DF15517409EDA00CB8C62 /* TableViewController.m */; };
+		1D0DF1591743405900CB8C62 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0DF1571743405900CB8C62 /* icon.png */; };
+		1D0DF15A1743405900CB8C62 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0DF1581743405900CB8C62 /* icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +42,8 @@
 		1D0DF14D1740683300CB8C62 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		1D0DF15417409EDA00CB8C62 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		1D0DF15517409EDA00CB8C62 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		1D0DF1571743405900CB8C62 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		1D0DF1581743405900CB8C62 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		1D0DF1381740683300CB8C62 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1D0DF1571743405900CB8C62 /* icon.png */,
+				1D0DF1581743405900CB8C62 /* icon@2x.png */,
 				1D0DF1391740683300CB8C62 /* converter-Info.plist */,
 				1D0DF13A1740683300CB8C62 /* InfoPlist.strings */,
 				1D0DF13D1740683300CB8C62 /* main.m */,
@@ -168,6 +174,8 @@
 				1D0DF1461740683300CB8C62 /* Default@2x.png in Resources */,
 				1D0DF1481740683300CB8C62 /* Default-568h@2x.png in Resources */,
 				1D0DF14B1740683300CB8C62 /* MainStoryboard.storyboard in Resources */,
+				1D0DF1591743405900CB8C62 /* icon.png in Resources */,
+				1D0DF15A1743405900CB8C62 /* icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
